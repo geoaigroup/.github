@@ -1,10 +1,6 @@
-## GEOAI group  
+## RASID SARL
 
-GEOspatial Artificial Intelligence [(GEOAI)](https://geogroup.ai/) is a research group at the Lebanese National Center for Remote Sensing - CNRS.  
-Our research is focused on AI-assisted mapping spanning various applications, including urban analytics, transportation, waterbodies monitoring and crop-yield estimation.  
-We develop tools to automate the process of urban features extraction and crowd-source data collection. Evidence gained from our models allows for a robust humanitarian response and provides policymakers/key-stakeholders with insights to design tailored regulations and safety countermeasures for urban social good.
-GEOAI group provides a unique opportunity for geospatial training in a professional research environment in Lebanon.  
-We have hosted more than 60 students at both undergraduate and graduate levels since 2016.  
+[RASID](https://rasid.ai/) specializes in AI-driven analysis of satellite imagery to provide critical insights for better decision-making. Our team of experts combines deep knowledge in AI, geospatial data, and industry-specific solutions. Our mission is to make geospatial data accessible and actionable for every industry, driving sustainable and efficient decision-making.
 
 <!--
 
